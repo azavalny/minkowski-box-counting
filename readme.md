@@ -1,6 +1,6 @@
 # Experimentally Proving the Minkowski-Bouligand Box Counting Method with the Coastlines of Great Britain and Australia 
 
-## Skills Acquired:
+## Applied Skills:
 * Applying OpenCV and working with greater than 3 dimensional tensors
 * Creating Aesthetically Pleasing Papers in LaTeX
 * Scientific Method
